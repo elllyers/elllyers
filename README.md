@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @elllyers
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning ..
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me @ elllyers@gmail.com 
-
-<!---
-elllyers/elllyers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Mono&pause=1000&color=CBD4FF&center=true&vCenter=true&width=435&lines=Full-Stack+Web+%26+App+Developer;Learn+.+Build+.+Deploy)](https://github.com/elllyers)
